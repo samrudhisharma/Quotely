@@ -1,0 +1,6 @@
+<resources>
+    <string name="app_name">Quotely</string>
+
+   <string name="quote">Tap Screen To Begin !</string>
+    <string name="action_settings">Settings</string>
+</resources>
